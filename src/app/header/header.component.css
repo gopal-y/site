@@ -1,0 +1,20 @@
+@import "~bootstrap/dist/css/bootstrap.min.css";
+
+.green {
+  color: green;
+}
+.red {
+  color: red;
+}
+.orange {
+  color: orange;
+}
+.caption {
+  color: #007777;
+}
+@media screen and (max-width: 400px) {
+  .navbar-toggler-icon {
+    width: 1rem !important;
+    height: 1rem !important;
+  }
+}
