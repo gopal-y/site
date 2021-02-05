@@ -1,0 +1,19 @@
+@import "~bootstrap/dist/css/bootstrap.min.css";
+.colorNone {
+  color: #666;
+}
+svg.fa-twitter :hover {
+  color: rgba(29, 161, 242, 1) !important;
+}
+svg.fa-github:hover {
+  color: white !important;
+}
+svg.fa-instagram:hover {
+  color: magenta !important;
+}
+svg.fa-linkedin:hover {
+  color: #2977c9 !important;
+}
+svg.svg-inline--fa {
+  font-size: 24px;
+}
